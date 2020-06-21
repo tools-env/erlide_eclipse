@@ -54,3 +54,6 @@ build/
 \.idea/
 
 *.iml
+
+.polyglot*
+.META-INF*
