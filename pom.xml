@@ -20,12 +20,12 @@
 		<repository>
 			<id>neon</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/releases/photon/</url>
+			<url>https://download.eclipse.org/releases/oxygen/</url>
 		</repository>
 		<repository>
 			<id>neon updates</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/eclipse/updates/4.8/</url>
+			<url>https://download.eclipse.org/eclipse/updates/4.9/</url>
 		</repository>
 		<repository>
 			<id>erlide libs</id>
@@ -35,12 +35,12 @@
 		<repository>
 			<id>orbit neon</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/tools/orbit/R-builds/R20170307180635/repository</url>
+			<url>https://download.eclipse.org/tools/orbit/R-builds/R20170307180635/repository</url>
 		</repository>
 		<repository>
 			<id>xtend</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.19.0</url>
+			<url>https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.19.0</url>
 		</repository>
 		<repository>
 			<id>kernel</id>
